@@ -7,5 +7,3 @@ Fiz besteira aqui
 Alteração na branch Master
 
 Nova linha na Master para testar atualização com o GitHub
-
-Adicionando recurso para testar comando Revert
